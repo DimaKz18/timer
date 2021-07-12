@@ -1,0 +1,44 @@
+.timer-display {
+    display: flex;
+    justify-content: center;
+}
+
+.timer-display p {
+    padding-left: 25px;
+    font-size: 20px;
+}
+
+.timer-btns {
+    display: flex;
+    justify-content: center;
+}
+
+.timer-btns button {
+    margin-left: 20px;
+}
+
+.timer-btns-btn {
+    padding: 8px 16px;
+    border-radius: 10px;
+    border: 1px solid black;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Light', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+    color: white;
+}
+
+.red-bg {
+    background-color: red;
+}
+
+.green-bg {
+    background-color: green;
+}
+
+.blue-bg {
+    background-color: blue;
+}
+
+.orange-bg {
+    background-color: orange;
+}
